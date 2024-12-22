@@ -1,0 +1,5 @@
+pynput
+pyautogui
+pyaudio
+cryptography
+requests
